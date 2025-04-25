@@ -3,10 +3,10 @@
 ## Zhan
 
 
-### 开源项目
+<!--### 开源项目-->
 
-[![](https://github-readme-stats.vercel.app/api/pin/?username=zhan-cm&repo=C_Study)](https://github.com/zhan-cm/C_Study)
-<br><br><br>
+<!--[![](https://github-readme-stats.vercel.app/api/pin/?username=zhan-cm&repo=C_Study)](https://github.com/zhan-cm/C_Study)-->
+<br>
 
 ### Github 活跃度
 
