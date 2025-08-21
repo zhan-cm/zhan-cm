@@ -3,7 +3,6 @@
 <!--   my-icons -->
 <p align="center">
     <a href="https://github.com/zhan-cm/zhan-cm"><img src="https://img.shields.io/badge/status-updating-brightgreen.svg"></a>
-    <a href="https://github.com/python/cpython"><img src="https://img.shields.io/badge/Python-3.12-FF1493.svg"></a>
     <a href="https://github.com/zhan-cm/zhan-cm/graphs/contributors"><img src="https://img.shields.io/github/contributors/zhan-cm/zhan-cm?color=blue"></a>
     <a href="https://github.com/zhan-cm/zhan-cm/stargazers"><img src="https://img.shields.io/github/stars/zhan-cm/zhan-cm.svg?logo=github"></a>
     <a href="https://github.com/zhan-cm/zhan-cm/network/members"><img src="https://img.shields.io/github/forks/zhan-cm/zhan-cm.svg?color=blue&logo=github"></a>
