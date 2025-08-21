@@ -1,6 +1,6 @@
 # Zhan
 
-### Github 活跃度
+### 📈 GitHub Activity Graph:
 
 [![](https://activity-graph.herokuapp.com/graph?username=zhan-cm&theme=dracula)](https://github.com/ashutosh00710/github-readme-activity-graph)
 ![zhan's github stats](https://github-readme-stats.vercel.app/api?username=zhan-cm&show_icons=true&theme=radical)
