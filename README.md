@@ -13,11 +13,6 @@
 ![](https://github.com/BEPb/BEPb/raw/main/src/header_.png)
 <a href="https://www.python.org/"><img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg" align="right" height="48" width="48" ></a>
 
-### 📈 GitHub Activity Graph:
-<!--   stats + languages -->
-| Github Status                                                                                                                                       | Languages                                                                                                                         |
-|-----------------------------------------------------------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------------------------------------------|
-| ![zhan's github stats](https://github-readme-stats.vercel.app/api?username=zhan-cm&show_icons=true&theme=radical) | ![zhan's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=zhan-cm&theme=radical&layout=compact) |
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=zhan-cm"></img>
 
