@@ -14,6 +14,4 @@
 <a href="https://www.python.org/"><img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg" align="right" height="48" width="48" ></a>
 
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=zhan-cm"></img>
-
 <img align="right" src="https://count.getloli.com/get/@:zhan-cm?theme=rule34">
