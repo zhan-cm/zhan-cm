@@ -17,7 +17,7 @@ jobs:
       
       - name: Generate Cards
         # 这里的 vn7n24f1tk1 是插件作者，不能改，否则 GitHub 找不到这个工具
-        uses: vn7n24f1tk1/github-profile-summary-cards@master
+        uses: vn7n24f1tk1/github-profile-summary-cards@main
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         with:
