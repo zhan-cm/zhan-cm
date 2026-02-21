@@ -1,9 +1,9 @@
 name: GitHub-Profile-Summary-Cards
 
 on:
-  schedule: # 每24小时自动更新一次
+  schedule:
     - cron: "0 0 * * *"
-  workflow_dispatch: # 允许手动点击运行
+  workflow_dispatch: # 允许你手动点击运行
 
 jobs:
   build:
@@ -14,8 +14,14 @@ jobs:
 
     steps:
       - uses: actions/checkout@v3
-      - uses: zhan-cm/github-profile-summary-cards@main
-        env: # 这一步会自动生成卡片并推送到你的仓库
+      
+      - name: Generate Cards
+        # 这里的 vn7n24f1tk1 是插件作者，不能改，否则 GitHub 找不到这个工具
+        uses: vn7n24f1tk1/github-profile-summary-cards@master
+        env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         with:
-          USERNAME: ${{ github.repository_owner }}
+          # 这里的 USERNAME 填你的名字，它才会去抓取你的数据
+          USERNAME: zhan-cm
+          # 如果你想换个颜色，可以加这一行，主题有: 'default', '2112', 'midnight', 'monokai', 'solarized'
+          THEME: 'default'
