@@ -15,18 +15,6 @@
 </p>
 
 ---
-
-### 🛠 Tech Stack
-
-<p align="left">
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
-  <img src="https://img.shields.io/badge/SpringBoot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white" />
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
-  <img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white" />
-  <img src="https://img.shields.io/badge/MyBatis--Plus-007ACC?style=for-the-badge&logo=cachet&logoColor=white" />
-</p>
-
----
 [![zhan-cm's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=zhan-cm&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=zhan-cm&theme=nord_bright)
