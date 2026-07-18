@@ -4,12 +4,6 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F7BB0E&center=true&vCenter=true&width=650&lines=Software+Engineering+Student;Java+Backend+Developer;Building+Apartment+Lease+Platform;Architecting+Knowledge+Base+Systems;Exploring+Artificial+Intelligence" alt="Typing SVG" />
 </p>
 
-<p align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=zhan-cm&theme=radical&row=1&column=7&margin-w=15&margin-h=15" alt="zhan-cm trophies" />
-  </a>
-</p>
-
 ---
 
 ### 💻 Tech Stack & Interests
