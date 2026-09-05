@@ -86,47 +86,85 @@ mode     : LEARN -> BUILD -> SHIP -> ITERATE
 
 ## `> CURRENT.MISSIONS`
 
-```text
-[01]  Strengthen Java & computer science fundamentals
-[02]  Build production-oriented backend systems
-[03]  Explore AI Agent engineering
-[04]  Build developer tools that solve real problems
-[05]  Contribute to open source
-[06]  Ship software people actually want to use
-```
+<table>
+  <tr>
+    <td width="50%">
+      <h3>🧠 Fundamentals</h3>
+      <p>Strengthen Java, CS basics, and problem-solving depth.</p>
+      <img src="https://img.shields.io/badge/STATUS-IN_PROGRESS-0D1117?style=flat-square&labelColor=161B22&color=58A6FF" />
+    </td>
+    <td width="50%">
+      <h3>⚙️ Backend Systems</h3>
+      <p>Build production-oriented backend projects with better engineering quality.</p>
+      <img src="https://img.shields.io/badge/STATUS-BUILDING-0D1117?style=flat-square&labelColor=161B22&color=58A6FF" />
+    </td>
+  </tr>
+  <tr>
+    <td width="50%">
+      <h3>🤖 AI Agents</h3>
+      <p>Explore agent workflows, LLM applications, and intelligent tools.</p>
+      <img src="https://img.shields.io/badge/STATUS-EXPLORING-0D1117?style=flat-square&labelColor=161B22&color=58A6FF" />
+    </td>
+    <td width="50%">
+      <h3>🚀 Open Source</h3>
+      <p>Build developer tools and ship software people actually want to use.</p>
+      <img src="https://img.shields.io/badge/STATUS-ACTIVE-0D1117?style=flat-square&labelColor=161B22&color=58A6FF" />
+    </td>
+  </tr>
+</table>
 
-### Currently exploring
+## `> CURRENT.FOCUS`
 
-```text
-BACKEND SYSTEMS     ███████████████████░
-JAVA / JVM          ███████████████████░
-AI AGENTS           █████████████████░░░
-DEVELOPER TOOLS     ████████████████░░░░
-OPEN SOURCE         ████████████████░░░░
-SYSTEM DESIGN       ████████████░░░░░░░░
-```
+<div align="center">
+
+<img src="https://img.shields.io/badge/JAVA%20%2F%20JVM-Deep%20Focus-0D1117?style=for-the-badge&labelColor=161B22&color=58A6FF" />
+<img src="https://img.shields.io/badge/BACKEND%20SYSTEMS-Building-0D1117?style=for-the-badge&labelColor=161B22&color=58A6FF" />
+<img src="https://img.shields.io/badge/AI%20AGENTS-Exploring-0D1117?style=for-the-badge&labelColor=161B22&color=58A6FF" />
+
+<br/>
+
+<img src="https://img.shields.io/badge/DEVELOPER%20TOOLS-Active-0D1117?style=for-the-badge&labelColor=161B22&color=58A6FF" />
+<img src="https://img.shields.io/badge/OPEN%20SOURCE-Improving-0D1117?style=for-the-badge&labelColor=161B22&color=58A6FF" />
+<img src="https://img.shields.io/badge/SYSTEM%20DESIGN-Learning-0D1117?style=for-the-badge&labelColor=161B22&color=58A6FF" />
+
+</div>
 
 ---
 
 ## `> ENGINEERING.PROTOCOL`
 
-```text
-┌──────────────────────────────────────────────────────────────┐
-│                                                              │
-│  01 // FUNDAMENTALS BEFORE FRAMEWORKS                        │
-│                                                              │
-│  02 // UNDERSTAND BEFORE ABSTRACTING                         │
-│                                                              │
-│  03 // DEBUG BEFORE GUESSING                                 │
-│                                                              │
-│  04 // USEFUL > COMPLICATED                                  │
-│                                                              │
-│  05 // BUILD > TALK                                          │
-│                                                              │
-│  06 // SHIP > PERFECT                                        │
-│                                                              │
-└──────────────────────────────────────────────────────────────┘
-```
+<table>
+  <tr>
+    <td width="50%">
+      <h4>01 · Fundamentals First</h4>
+      <p>Build strong foundations before relying on frameworks.</p>
+    </td>
+    <td width="50%">
+      <h4>02 · Understand Deeply</h4>
+      <p>Understand how things work before abstracting them away.</p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%">
+      <h4>03 · Debug Rationally</h4>
+      <p>Debug with evidence, not with blind guessing.</p>
+    </td>
+    <td width="50%">
+      <h4>04 · Useful > Complicated</h4>
+      <p>Prefer practical systems over unnecessarily complex ones.</p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%">
+      <h4>05 · Build > Talk</h4>
+      <p>Real projects matter more than empty statements.</p>
+    </td>
+    <td width="50%">
+      <h4>06 · Ship > Perfect</h4>
+      <p>Deliver working software, then iterate and improve.</p>
+    </td>
+  </tr>
+</table>
 
 ---
 
