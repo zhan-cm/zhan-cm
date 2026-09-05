@@ -11,10 +11,19 @@ permissions:
 jobs:
   build:
     runs-on: ubuntu-latest
+    name: generate-github-profile-summary-cards
+
     steps:
-      - uses: vn7n24fzkq/github-profile-summary-cards@release
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Generate profile summary cards
+        uses: vn7n24fzkq/github-profile-summary-cards@release
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         with:
           USERNAME: zhan-cm
+          BRANCH_NAME: main
           UTC_OFFSET: 8
+          AUTO_PUSH: true
+          THEME: github_dark
