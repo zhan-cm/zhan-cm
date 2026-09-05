@@ -195,52 +195,6 @@ mode     : LEARN -> BUILD -> SHIP -> ITERATE
   </tr>
 </table>
 
----
-
-## `> CONTRIBUTION.PROTOCOL`
-
-<div align="center">
-
-<p>
-  <code>CONTRIBUTIONS DETECTED</code>
-  &nbsp;•&nbsp;
-  <code>SNAKE.EXE RUNNING</code>
-</p>
-
-<picture>
-  <source
-    media="(prefers-color-scheme: dark)"
-    srcset="https://raw.githubusercontent.com/zhan-cm/zhan-cm/output/github-contribution-grid-snake-dark.svg"
-  />
-  <source
-    media="(prefers-color-scheme: light)"
-    srcset="https://raw.githubusercontent.com/zhan-cm/zhan-cm/output/github-contribution-grid-snake.svg"
-  />
-  <img
-    alt="github contribution grid snake animation"
-    src="https://raw.githubusercontent.com/zhan-cm/zhan-cm/output/github-contribution-grid-snake.svg"
-    width="100%"
-  />
-</picture>
-
-</div>
-
----
-
-## `> END_OF_LINE`
-
-<div align="center">
-
-```text
-zhan-cm@github:~$ ./build.sh
-
-[ OK ] learning
-[ OK ] coding
-[ OK ] debugging
-[ OK ] shipping
-
-SYSTEM STATUS: ONLINE_
-```
 
 <sub>
   <code>CODE</code> •
