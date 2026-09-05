@@ -72,10 +72,13 @@ mode     : LEARN -> BUILD -> SHIP -> ITERATE
 
 ---
 
-## `> ACTIVITY.STREAM`
+## `> Header SVG + 3D Contribution City`
 
 <div align="center">
+  
+  <img width="2172" height="724" alt="image" src="https://github.com/user-attachments/assets/3c18e174-5511-4507-8e42-dd88132faea8" />
 
+  <img width="1672" height="941" alt="image" src="https://github.com/user-attachments/assets/1380a9c8-4772-44bc-88ae-0ac8a0cb2229" />
 
 </div>
 
