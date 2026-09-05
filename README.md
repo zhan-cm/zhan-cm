@@ -69,7 +69,36 @@ mode     : LEARN -> BUILD -> SHIP -> ITERATE
 
 </div>
 
+<div align="center">
+  <img src="./assets/github-metrics.svg" width="100%" />
+</div>
 
+<br/>
+
+<div align="center">
+  <img src="./profile-summary-card-output/github_dark/0-profile-details.svg" width="49%" />
+  <img src="./profile-summary-card-output/github_dark/3-stats.svg" width="49%" />
+</div>
+
+---
+
+## `> CONTRIBUTION.CITY`
+
+<div align="center">
+  <img src="./profile-3d-contrib/profile-night-view.svg" width="100%" />
+</div>
+
+---
+
+## `> CONTRIBUTION.PROTOCOL`
+
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/zhan-cm/zhan-cm/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/zhan-cm/zhan-cm/output/github-contribution-grid-snake.svg">
+    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/zhan-cm/zhan-cm/output/github-contribution-grid-snake.svg" width="100%">
+  </picture>
+</div>
 ---
 
 ## `> Header SVG + 3D Contribution City`
