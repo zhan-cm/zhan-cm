@@ -62,9 +62,6 @@ mode     : LEARN -> BUILD -> SHIP -> ITERATE
 
 <div align="center">
 
-<a href="https://github.com/zhan-cm">
-  <img height="190" src="https://github-readme-stats.vercel.app/api?username=zhan-cm&show_icons=true&include_all_commits=true&custom_title=GitHub%20Telemetry&title_color=58A6FF&text_color=C9D1D9&icon_color=58A6FF&bg_color=0D1117&border_color=30363D&border_radius=6" />
-</a>
 
 <a href="https://github.com/zhan-cm">
   <img height="190" src="https://streak-stats.demolab.com?user=zhan-cm&background=0D1117&border=30363D&stroke=30363D&ring=58A6FF&fire=58A6FF&currStreakNum=F0F6FC&sideNums=F0F6FC&currStreakLabel=58A6FF&sideLabels=8B949E&dates=8B949E&border_radius=6" />
@@ -72,15 +69,6 @@ mode     : LEARN -> BUILD -> SHIP -> ITERATE
 
 </div>
 
-<br/>
-
-<div align="center">
-
-<a href="https://github.com/zhan-cm">
-  <img height="190" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zhan-cm&layout=compact&langs_count=8&custom_title=Language%20Distribution&title_color=58A6FF&text_color=C9D1D9&bg_color=0D1117&border_color=30363D&border_radius=6" />
-</a>
-
-</div>
 
 ---
 
@@ -88,7 +76,6 @@ mode     : LEARN -> BUILD -> SHIP -> ITERATE
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=zhan-cm&bg_color=0D1117&color=8B949E&line=58A6FF&point=F0F6FC&area=true&area_color=58A6FF&hide_border=false&custom_title=Contribution%20Activity" width="100%" />
 
 </div>
 
